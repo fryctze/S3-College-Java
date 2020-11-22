@@ -1,7 +1,5 @@
 package Class.KBs.KB2.praktikum;
 
-import Class.Teory.z_9.Node;
-
 public class LinearQueue {
     int front, rear;
     int size;
